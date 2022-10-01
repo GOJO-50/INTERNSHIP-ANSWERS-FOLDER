@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 10% 0%;
+}
+table{
+    max-width: 50%;
+    margin: 0 auto;
+}
+td{
+    border-bottom: black solid 1px;
+    font-size: 18pt;
+    padding: 15px 50px;
+}
+th{
+    background-color: gray;
+    font-size: 24pt;
+    padding: 10px 50px;
+}
+[type="radio"] {
+    accent-color: green;
+}
